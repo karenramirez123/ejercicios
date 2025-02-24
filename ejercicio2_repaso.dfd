@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+'ingrese un numero'
+5
+1
+4
+num1
+4
+1
+21
+'ingrese otro numero'
+5
+1
+4
+num2
+6
+3
+4
+suma
+9
+num1+num2
+5
+resta
+9
+num1-num2
+5
+multi
+9
+num1*num2
+6
+2
+8
+division
+9
+num1/num2
+8
+potencia
+19
+(num1)^2 + (num2)^2
+4
+1
+27
+num1, '+', num2, '=', suma 
+4
+1
+28
+num1, '-', num2, '=', resta 
+4
+1
+28
+num1, '*', num2, '=', multi 
+4
+1
+31
+num1, '/', num2, '=', division 
+4
+1
+39
+num1, '^2 +', num2, '^2', '=', potencia
+1

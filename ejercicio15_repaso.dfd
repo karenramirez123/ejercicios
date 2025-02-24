@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+37
+'ingrese el radio del cilindro en CM'
+5
+1
+5
+radio
+4
+1
+38
+'ingresa la altura del cilindro en CM'
+5
+1
+6
+altura
+6
+1
+12
+volumenCilin
+21
+3.1416*radio^2*altura
+4
+1
+53
+'el volumen del cilindro es:' , volumenCilin, ' CM^3'
+1

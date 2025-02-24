@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+33
+'ingrese el valor del producto 1'
+5
+1
+10
+producto_1
+4
+1
+33
+'ingrese el valor del producto 2'
+5
+1
+10
+producto_2
+4
+1
+33
+'ingrese el valor del producto 3'
+5
+1
+10
+producto_3
+6
+3
+4
+suma
+34
+producto_1+ producto_2 +producto_3
+9
+descuento
+9
+suma*0.20
+5
+total
+14
+suma-descuento
+7
+0
+1
+12
+suma>=100000
+4
+1
+60
+'su compra no tiene un descuento', 'valor a pagar es:', suma
+13
+4
+1
+67
+'su compra tiene un descuento del 20%', 'lvalor a pagar es:', total
+13
+1

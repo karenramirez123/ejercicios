@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+25
+'ingrese su primera nota'
+5
+1
+5
+nota1
+4
+1
+25
+'ingrese su segunda nota'
+5
+1
+5
+nota2
+4
+1
+24
+'ingrese su tercer nota'
+5
+1
+5
+nota3
+6
+1
+9
+notaFinal
+21
+(nota1+nota2+nota3)/3
+7
+0
+1
+13
+notaFinal>3.0
+4
+1
+62
+'el estudiante No abrobó, su promedio es:',  '   ' , notaFinal
+13
+4
+1
+59
+'el estudiante  aprobó, su promedio es:', '   ' , notaFinal
+13
+1

@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+46
+'Ingrese su distancia recorrida en kilómetros'
+5
+1
+9
+distancia
+6
+2
+6
+metros
+14
+distancia*1000
+2
+CM
+16
+distancia*100000
+4
+1
+53
+distancia, 'KM   =   ' , metros,'M   =   ' , CM, 'CM'
+1

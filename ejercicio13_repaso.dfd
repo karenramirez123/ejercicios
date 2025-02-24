@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+42
+'ingrese el numero de semanas que trabajo'
+5
+1
+7
+semanas
+4
+1
+36
+'ingrese el numero de horas diarias'
+5
+1
+5
+horas
+4
+1
+42
+'ingrese el valor de cada hora de trabajo'
+5
+1
+6
+horasV
+6
+1
+5
+total
+29
+(semanas*7) *(horas)*(horasV)
+4
+1
+34
+'su pago de trabajo es de:', total
+1

@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+47
+'Ingrse la medida de uno de los lados del cubo'
+5
+1
+4
+lado
+6
+1
+7
+volumen
+6
+lado^3
+4
+1
+43
+'el volumen de cubo es:  ', volumen, '  CM'
+1

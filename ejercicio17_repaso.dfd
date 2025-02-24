@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+35
+'Ingrese numero de inicio de rango'
+5
+1
+6
+inicio
+4
+1
+31
+'Ingrese numero final de rango'
+5
+1
+5
+final
+6
+1
+10
+acumulador
+1
+0
+9
+1
+13
+inicio<=final
+6
+2
+10
+acumulador
+17
+acumulador+inicio
+6
+inicio
+8
+inicio+1
+11
+4
+1
+57
+'La sumatoria de numeros de ese rango es:  ', acumulador 
+1

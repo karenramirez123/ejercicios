@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'ingrese el numero de semanas'
+5
+1
+6
+semana
+6
+3
+4
+dias
+8
+semana*7
+4
+hora
+7
+dias*24
+7
+minutos
+12
+dias*(24*60)
+4
+1
+199
+'cantidad de dias =   ', dias, '                                                         cantidad de horas =' , hora, '                                                cantidad de minutos = ', minutos
+1

@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+'ingrese su edad'
+5
+1
+4
+edad
+7
+0
+1
+20
+edad>=1 and edad <=5
+7
+0
+1
+20
+edad>=6 and edad<=17
+7
+0
+1
+21
+edad>=18 and edad<=59
+4
+1
+73
+'el cliente tiene una promocion de adulto mayor, paga un valor de: 5.000'
+13
+4
+1
+37
+'el cliente paga un valor de: 15.000'
+13
+13
+4
+1
+37
+'el cliente paga un valor de: 10.000'
+13
+13
+4
+1
+20
+'el cliente no paga'
+13
+1

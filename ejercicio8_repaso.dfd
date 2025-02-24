@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+36
+'Digite la base del triangulo en cm'
+5
+1
+4
+base
+4
+1
+38
+'Digite la altura del triangulo en cm'
+5
+1
+6
+altura
+6
+2
+4
+area
+15
+(base*altura)/2
+6
+metros
+8
+area/100
+4
+1
+56
+'el area del triangulo es:', area, 'cm', '=', metros,'m'
+1

@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+38
+'Ingrese el diametro de la base en CM'
+5
+1
+8
+diametro
+4
+1
+38
+'Ingrese la altura del cilindro en CM'
+5
+1
+6
+altura
+6
+3
+5
+radio
+10
+diametro/2
+4
+area
+29
+2*3.1416*radio*(radio+altura)
+5
+areaM
+8
+area/100
+4
+1
+130
+'el area del cilindro en centimetros es:  ', area, ' CM^2', '                 Y el area del cilindro en metros es:', areaM, ' M^2'
+1

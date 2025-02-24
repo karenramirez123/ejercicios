@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+48
+'ingrese el valor de la base mayor del trapecio'
+5
+1
+9
+baseMayor
+4
+1
+48
+'ingrese el valor de la base menor del trapecio'
+5
+1
+9
+baseMenor
+4
+1
+44
+'ingrese el valor de la altura del trapecio'
+5
+1
+6
+altura
+6
+1
+12
+areaTrapecio
+30
+(baseMayor+baseMenor)*altura/2
+4
+1
+50
+'el area del trapecio es: ' , areaTrapecio, 'CM^2'
+1
