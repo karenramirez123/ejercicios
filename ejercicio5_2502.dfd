@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+26
+'Bienvenido señor usuario'
+4
+1
+50
+'señor usuario Ingrese el porcentaje de la compra'
+5
+1
+10
+porcentaje
+4
+1
+45
+'señor usuario ingrese el valor de la compra'
+5
+1
+5
+valor
+4
+1
+33
+'señor usuario ingrese su nombre'
+5
+1
+6
+nombre
+6
+2
+9
+descuento
+22
+valor*(porcentaje/100)
+5
+valor
+15
+valor-descuento
+4
+1
+78
+'Hola, señor@ usuario  ', nombre, '  Usted debe pagar :  ' , valor, '  pesos' 
+1
