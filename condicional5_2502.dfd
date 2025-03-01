@@ -1,0 +1,62 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+37
+'Digite en valor del primer producto'
+5
+1
+6
+valor1
+4
+1
+38
+'Digite en valor del segundo producto'
+5
+1
+6
+valor2
+7
+0
+1
+30
+valor1<valor2 or valor1>valor2
+6
+3
+3
+iva
+20
+valor2+(valor2*0.19)
+9
+descuento
+20
+valor1-(valor1*0.07)
+5
+total
+14
+iva+ descuento
+13
+6
+3
+3
+iva
+20
+valor1+(valor1*0.19)
+9
+descuento
+22
+valor2 - (valor2*0.07)
+5
+total
+13
+iva+descuento
+13
+4
+1
+33
+'El valor a pagar es de: ', total
+1
