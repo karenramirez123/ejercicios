@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+25
+'Digite el primer numero'
+5
+1
+4
+num1
+4
+1
+26
+'Digite el segundo numero'
+5
+1
+4
+num2
+7
+0
+1
+9
+num1>num2
+7
+0
+1
+9
+num1<num2
+4
+1
+46
+' los numero son iguales ' , num1, '= ', num2 
+13
+4
+1
+60
+'El segundo numero ' , num2 ' es mayor que el primero', num1
+13
+13
+4
+1
+67
+'el primer numero ', num1, 'es mayor que el segundo numero: ', num2
+13
+1

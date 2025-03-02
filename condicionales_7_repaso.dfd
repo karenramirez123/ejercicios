@@ -1,0 +1,66 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+37
+'Digite el valor del primer producto'
+5
+1
+6
+valor1
+4
+1
+38
+'Digite el valor dle segundo producto'
+5
+1
+6
+valor2
+7
+0
+1
+14
+valor1>valor2 
+6
+3
+11
+descuento1 
+20
+valor2-(valor2*0.10)
+10
+descuento2
+20
+valor1-(valor1*0.20)
+5
+total
+21
+descuento1+descuento2
+4
+1
+5
+total
+13
+6
+3
+11
+descuento1 
+20
+valor1-(valor1*0.20)
+10
+descuento2
+21
+valor2- (valor2*0.10)
+5
+total
+23
+descuento1 + descuento2
+4
+1
+5
+total
+13
+1

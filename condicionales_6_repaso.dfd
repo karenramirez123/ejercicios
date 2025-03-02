@@ -1,0 +1,74 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+'Ingresa un numero'
+5
+1
+3
+num
+7
+0
+1
+16
+num>0 AND num<10
+7
+0
+1
+17
+num>9 AND num<100
+7
+0
+1
+19
+num>99 AND num<1000
+7
+0
+1
+21
+num>999 AND num<10000
+7
+0
+1
+23
+num>9999 AND num<100000
+4
+1
+38
+'El numero tiene MAS DE CINCO cifras '
+13
+4
+1
+31
+'El numero tiene CINCO cifras '
+13
+13
+4
+1
+32
+'El numero tiene CUATRO cifras '
+13
+13
+4
+1
+30
+'El numero tiene TRES cifras '
+13
+13
+4
+1
+29
+'El numero tiene DOS cifras '
+13
+13
+4
+1
+28
+'El numero tiene UNA cifra '
+13
+1

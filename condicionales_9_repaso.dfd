@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+35
+'Ingrese el valor de sus impuestos'
+5
+1
+3
+imp
+4
+1
+24
+'Ingrese el mes actual' 
+5
+1
+3
+mes
+7
+0
+1
+30
+mes ='febrero'  or mes='junio'
+4
+1
+51
+'No tiene descuento, el valor a pagar es de: ', imp
+13
+6
+1
+7
+precio1
+14
+imp-(imp*0.15)
+4
+1
+35
+'El valor a pagar es de: ', precio1
+13
+1

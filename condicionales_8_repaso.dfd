@@ -1,0 +1,50 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+42
+'Digite la cantidad de galones de pintura'
+5
+1
+4
+cant
+4
+1
+47
+'digite el valor unitario del galon de pintura'
+5
+1
+5
+valor
+7
+0
+1
+8
+cant>=10
+6
+1
+7
+precio2
+10
+cant*valor
+4
+1
+35
+'El valor a pagar es de: ', precio2
+13
+6
+1
+7
+precio1
+17
+cant*(valor-4000)
+4
+1
+35
+'El valor a pagar es de: ', precio1
+13
+1

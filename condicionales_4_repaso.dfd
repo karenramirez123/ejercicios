@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'Digite el producto a comprar'
+5
+1
+2
+p1
+4
+1
+33
+'Digite la cantidad del producto'
+5
+1
+5
+cant1
+4
+1
+39
+'Digite el valor unitario del producto'
+5
+1
+6
+valor1
+6
+1
+5
+total
+12
+valor1*cant1
+7
+0
+1
+13
+valor1>500000
+6
+1
+6
+envio2
+11
+total+30000
+4
+1
+35
+'El valor a pagar es de: ' , envio2
+13
+6
+1
+7
+envio1 
+11
+total+50000
+4
+1
+34
+'El valor a pagar es de: ', envio1
+13
+1
