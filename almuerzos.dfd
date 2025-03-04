@@ -1,0 +1,86 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'digite el numero de almuerzos'
+5
+1
+3
+alm
+6
+3
+5
+saldo
+6
+400000
+8
+vendidos
+3
+280
+6
+limite
+3
+300
+6
+2
+5
+total
+8
+1500*alm
+7
+cantAlm
+15
+limite-vendidos
+7
+0
+1
+27
+total<saldo and alm<cantAlm
+7
+0
+1
+11
+total>saldo
+7
+0
+1
+12
+alm>=cantAlm
+4
+1
+30
+'NO puede comprar su almuerzo'
+13
+4
+1
+49
+'supera la cantidad de almuerzos segun el limite'
+13
+13
+4
+1
+26
+'su saldo es insuficiente'
+13
+13
+4
+1
+41
+'Si puede comprar el numero de almuerzos'
+6
+1
+6
+total1
+11
+saldo-total
+4
+1
+23
+'su saldo es: ', total1
+13
+1
