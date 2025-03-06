@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+37
+'Ingrese una contraseña de 4 digitos'
+5
+1
+10
+contraseña
+7
+0
+1
+37
+contraseña>=1000 and contraseña<=9999
+4
+1
+55
+'La contraseña No cumple con la condicion de 4 digitos'
+13
+4
+1
+42
+'La contraseña cumple con las condiciones'
+13
+1

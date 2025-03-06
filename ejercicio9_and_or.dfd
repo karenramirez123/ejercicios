@@ -1,0 +1,46 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+15
+'Digite un dia'
+5
+1
+3
+dia
+4
+1
+29
+'Digite un mes ( en numero) '
+5
+1
+3
+mes
+4
+1
+16
+'Digite un año' 
+5
+1
+3
+año
+7
+0
+1
+51
+(1 <= dia <= 31) and (1 <= mes <= 12) and (año > 0)
+4
+1
+16
+'Fecha invalida'
+13
+4
+1
+14
+'Fecha valida'
+13
+1

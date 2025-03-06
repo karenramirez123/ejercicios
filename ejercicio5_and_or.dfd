@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+182
+'Es un cliente frecuente', '                                                        1. SI ', '                                                                                  2. NO'
+5
+1
+7
+cliente
+4
+1
+32
+'Ingrese el valor de la compra' 
+5
+1
+5
+valor
+7
+0
+1
+26
+cliente=1 and valor>100000
+4
+1
+60
+'Su compra No tiene descuento, El valor a pagar es: ', valor
+13
+6
+1
+9
+descuento
+18
+valor-(valor*0.15)
+4
+1
+62
+'Su compra tiene descuento, El valor a pagar es: ' , descuento
+13
+1

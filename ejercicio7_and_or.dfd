@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+'Ingrese su edad'
+5
+1
+4
+edad
+4
+1
+170
+'Tiene licencia de conduccion', '                                               1. SI', '                                                                            2.NO'
+5
+1
+8
+licencia
+7
+0
+1
+23
+edad>=18 and licencia=1
+4
+1
+25
+'Usted No puede conducir'
+13
+4
+1
+22
+'Usted puede conducir'
+13
+1
